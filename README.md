@@ -17,7 +17,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/india-export-analytics.git
+    git clone https://github.com/kirangugwade/exim-analytica.git
     cd india-export-analytics
     ```
 
