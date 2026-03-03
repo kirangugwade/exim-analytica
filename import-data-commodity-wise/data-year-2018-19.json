@@ -1,0 +1,114 @@
+{
+    "thead": [
+        "S.No.",
+        "HSCode",
+        "Commodity",
+        "2017 - 2018",
+        "%Share",
+        "2018 - 2019",
+        "%Share",
+        "%Growth"
+    ],
+    "tbody": [
+        {
+            "S.No.": "1",
+            "HSCode": "01012100",
+            "Commodity": "PURE-BRED BREEDING HORSES",
+            "2017 - 2018": "0.05",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.00",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "2",
+            "HSCode": "01012910",
+            "Commodity": "HORSES FOR POLO",
+            "2017 - 2018": "1.29",
+            "%Share": "0.0000",
+            "2018 - 2019": "1.06",
+            "%Growth": "-17.75"
+        },
+        {
+            "S.No.": "3",
+            "HSCode": "01012990",
+            "Commodity": "OTHER HORSES",
+            "2017 - 2018": "18.45",
+            "%Share": "0.0005",
+            "2018 - 2019": "16.83",
+            "%Growth": "-8.75"
+        },
+        {
+            "S.No.": "4",
+            "HSCode": "01019090",
+            "Commodity": "MULES,HINNIES OTHR THN LIVESTOCK",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.03",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "5",
+            "HSCode": "01029090",
+            "Commodity": "OTHERS (EXCLUDING CATTLE AND BUFFALOES)      OTHER THAN PURE-BRED B...",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.02",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "6",
+            "HSCode": "01039100",
+            "Commodity": "LIVE SWINE,OTHER THAN PURE BRED-BREEDING  WEIGHING LESS THAN 50 KG",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.12",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "7",
+            "HSCode": "01051100",
+            "Commodity": "FOWLS OF SPCS GALLUS DOMES WT<= 185 G",
+            "2017 - 2018": "20.33",
+            "%Share": "0.0007",
+            "2018 - 2019": "23.63",
+            "%Growth": "16.22"
+        },
+        {
+            "S.No.": "8",
+            "HSCode": "01061900",
+            "Commodity": "OTHER MAMMALS",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0004",
+            "2018 - 2019": "13.13",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "9",
+            "HSCode": "01062000",
+            "Commodity": "REPTILES (INCLUDING SNAKES AND TURTLES)",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.00",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "10",
+            "HSCode": "01063900",
+            "Commodity": "OTHER BIRDS",
+            "2017 - 2018": "0.00",
+            "%Share": "0.0000",
+            "2018 - 2019": "0.00",
+            "%Growth": "-23.08"
+        }
+    ],
+    "tfoot": [
+        {
+            "S.No.": "India's Total Import",
+            "HSCode": "3,001,033.43",
+            "Commodity": "",
+            "2017 - 2018": "3,594,674.61",
+            "%Share": "",
+            "2018 - 2019": "19.78"
+        }
+    ]
+}

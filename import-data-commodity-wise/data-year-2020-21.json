@@ -1,0 +1,114 @@
+{
+    "thead": [
+        "S.No.",
+        "HSCode",
+        "Commodity",
+        "2019 - 2020",
+        "%Share",
+        "2020 - 2021",
+        "%Share",
+        "%Growth"
+    ],
+    "tbody": [
+        {
+            "S.No.": "1",
+            "HSCode": "01012100",
+            "Commodity": "PURE-BRED BREEDING HORSES",
+            "2019 - 2020": "2.09",
+            "%Share": "0.0003",
+            "2020 - 2021": "9.04",
+            "%Growth": "332.41"
+        },
+        {
+            "S.No.": "2",
+            "HSCode": "01012910",
+            "Commodity": "HORSES FOR POLO",
+            "2019 - 2020": "0.73",
+            "%Share": "0.0001",
+            "2020 - 2021": "2.33",
+            "%Growth": "220.23"
+        },
+        {
+            "S.No.": "3",
+            "HSCode": "01012990",
+            "Commodity": "OTHER HORSES",
+            "2019 - 2020": "9.56",
+            "%Share": "0.0002",
+            "2020 - 2021": "6.96",
+            "%Growth": "-27.17"
+        },
+        {
+            "S.No.": "4",
+            "HSCode": "01019090",
+            "Commodity": "MULES,HINNIES OTHR THN LIVESTOCK",
+            "2019 - 2020": "0.48",
+            "%Share": "0.0000",
+            "2020 - 2021": "0.01",
+            "%Growth": "-97.84"
+        },
+        {
+            "S.No.": "5",
+            "HSCode": "01022110",
+            "Commodity": "BULLS FOR PURE BRED BREEDING",
+            "2019 - 2020": "1.18",
+            "%Share": "0.0005",
+            "2020 - 2021": "14.59",
+            "%Growth": "1138.14"
+        },
+        {
+            "S.No.": "6",
+            "HSCode": "01031000",
+            "Commodity": "LIVE SWINE, PURE-BRED BREEDING",
+            "2019 - 2020": "4.95",
+            "%Share": "0.0000",
+            "2020 - 2021": "0.00",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "7",
+            "HSCode": "01039100",
+            "Commodity": "LIVE SWINE,OTHER THAN PURE BRED-BREEDING  WEIGHING LESS THAN 50 KG",
+            "2019 - 2020": "0.00",
+            "%Share": "0.0000",
+            "2020 - 2021": "0.20",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "8",
+            "HSCode": "01041010",
+            "Commodity": "LIVE SHEEP AND LAMB FOR BREEDING PURPOSE",
+            "2019 - 2020": "23.00",
+            "%Share": "0.0000",
+            "2020 - 2021": "0.00",
+            "%Growth": ""
+        },
+        {
+            "S.No.": "9",
+            "HSCode": "01051100",
+            "Commodity": "FOWLS OF SPCS GALLUS DOMES WT<= 185 G",
+            "2019 - 2020": "23.94",
+            "%Share": "0.0007",
+            "2020 - 2021": "21.42",
+            "%Growth": "-10.51"
+        },
+        {
+            "S.No.": "10",
+            "HSCode": "01059900",
+            "Commodity": "OTHER LIVE POULTRY WEIGHING > 185G",
+            "2019 - 2020": "0.00",
+            "%Share": "0.0000",
+            "2020 - 2021": "0.00",
+            "%Growth": ""
+        }
+    ],
+    "tfoot": [
+        {
+            "S.No.": "India's Total Import",
+            "HSCode": "3,360,954.46",
+            "Commodity": "",
+            "2019 - 2020": "2,915,957.70",
+            "%Share": "",
+            "2020 - 2021": "-13.24"
+        }
+    ]
+}

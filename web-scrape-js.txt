@@ -1,0 +1,30 @@
+function tableToJSONWithHeaders(table) {
+  // Extract headers
+  const headers = Array.from(table.tHead.rows[0].cells)
+    .map(th => th.textContent.trim());
+
+  // Convert a table section to objects
+  const mapSection = (section) => {
+    if (!section) return [];
+
+    return Array.from(section.rows).map(row => {
+      const obj = {};
+      Array.from(row.cells).forEach((cell, index) => {
+        obj[headers[index]] = cell.textContent.trim();
+      });
+      return obj;
+    });
+  };
+
+  return {
+    thead: headers,
+    tbody: mapSection(table.tBodies[0]),
+    tfoot: mapSection(table.tFoot)
+  };
+}
+
+// Usage
+const table = document.getElementById("example1");
+const json = tableToJSONWithHeaders(table);
+
+console.log(JSON.stringify(json, null, 2));
